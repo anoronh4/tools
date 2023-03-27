@@ -17,7 +17,7 @@ log = logging.getLogger(__name__)
 
 class ComponentCommand:
     """
-    Base class for the 'nf-core modules' and 'nf-core subworkflows' commands
+    Base class for the 'nf-core modules' and 'nf-core subworkflows' commands.
     """
 
     def __init__(
